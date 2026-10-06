@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hej, jag heter Joel Zemariam!
 
-<!--
-**joelzema/joelzema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jag studerar systemvetenskap vid Örebro universitet och söker en möjlighet att genomföra mitt **systemutvecklingsprojekt (SUP) under vårterminen 2027**. Kursen omfattar 20 veckor på heltid med planering, utveckling och dokumentation.
 
-Here are some ideas to get you started:
+## Tekniska kunskaper
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programmering:** C#, Java och JavaScript
+- **Webbutveckling:** ASP.NET MVC, HTML och CSS
+- **Databaser:** SQL, MySQL och Microsoft SQL Server
+- **Samarbete och kodhantering:** GitHub
+
+## Projekt
+
+### [OttosHatShop](https://github.com/NoccoPLSb/OttosHatShop)
+
+Ett grupprojekt vid Örebro universitet där vi utvecklade ett verksamhetssystem för ett hattföretag. Projektet använder ASP.NET Core MVC och MongoDB samt bygger på Clean Architecture. Gruppen arbetade med Scrum, XP och user stories.
+
+Jag deltog i utvecklingen tillsammans med andra studenter. Länken går till gruppens gemensamma repository.
+
+## Söker SUP våren 2027
+
+Jag är intresserad av att bidra till ett utvecklingsprojekt inom webb, databaser eller verksamhetssystem, där jag kan använda och fördjupa mina kunskaper.
